@@ -124,13 +124,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 # 🔗 Links
 
 ## 🔹 GitHub Repository
-Paste Your GitHub Repository Link Here
+https://github.com/Omkhamis2007/CodeAlpha_IrisFlowerClassification
 
 ## 🔹 LinkedIn Post
 Paste Your LinkedIn Post Link Here
-
-## 🔹 Project Video
-Paste Your Video Link Here
 
 ---
 
