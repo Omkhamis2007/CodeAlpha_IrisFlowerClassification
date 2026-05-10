@@ -73,13 +73,14 @@ The main objective of this project is to:
 # 📸 Visualizations
 
 ## 🌈 Pairplot
-(Add Screenshot Here)
+<img width="1112" height="986" alt="im1" src="https://github.com/user-attachments/assets/dd428908-fae9-4f59-878a-502ca27482f1" />
+
 
 ## 🔥 Correlation Heatmap
-(Add Screenshot Here)
+<Figure size 800x600 with 2 Axes>
 
 ## 🎯 Confusion Matrix
-(Add Screenshot Here)
+<Figure size 600x400 with 2 Axes>
 
 ---
 
@@ -88,7 +89,7 @@ The main objective of this project is to:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_IrisFlowerClassification.git
+https://github.com/Omkhamis2007/CodeAlpha_IrisFlowerClassification/edit/main/README.md
 ```
 
 ## 2️⃣ Navigate to Project Folder
@@ -135,7 +136,7 @@ Paste Your Video Link Here
 
 ## LinkedIn
 Paste Your LinkedIn Profile Link Here
-
+https://www.linkedin.com/in/om-khamis-470159318/
 ---
 
 # 🏁 Conclusion
