@@ -81,7 +81,7 @@ The main objective of this project is to:
 
 
 ## 🎯 Confusion Matrix
-<img width="745" height="528" alt="im2" src="https://github.com/user-attachments/assets/f0fdf257-8c34-4b86-96a7-e7d24acfb4ca" />
+<img width="501" height="393" alt="im3" src="https://github.com/user-attachments/assets/5a850a1f-5c1d-4776-bb94-5af0c7ddbab9" />
 
 
 ---
