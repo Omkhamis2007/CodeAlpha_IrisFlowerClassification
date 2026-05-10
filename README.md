@@ -77,10 +77,12 @@ The main objective of this project is to:
 
 
 ## 🔥 Correlation Heatmap
-<Figure size 800x600 with 2 Axes>
+<img width="745" height="528" alt="im2" src="https://github.com/user-attachments/assets/58fa703b-00af-49aa-bee4-d4db4cae2d5a" />
+
 
 ## 🎯 Confusion Matrix
-<Figure size 600x400 with 2 Axes>
+<img width="745" height="528" alt="im2" src="https://github.com/user-attachments/assets/f0fdf257-8c34-4b86-96a7-e7d24acfb4ca" />
+
 
 ---
 
